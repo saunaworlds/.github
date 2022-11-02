@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/saunaworlds/.github/blob/main/assets/logo.svg" alt="Saunaworlds" width="200" height="200" />
+  <img src="https://github.com/saunaworlds/.github/blob/main/assets/logo.svg" alt="Saunaworlds" width="100" height="100" />
 </p>
 
 <h1 align="center">Saunaworlds</h1>
